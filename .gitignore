@@ -1,0 +1,8 @@
+*.log
+!/apache/*.log
+/bin/
+/dist/**/tmp*
+bin/
+obj/
+.vs/
+.idea/
